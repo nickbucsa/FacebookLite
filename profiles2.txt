@@ -1,0 +1,46 @@
+
+PROFILE 1:
+//Info//
+nick;;bucas;;33
+//Status//
+good morning
+//Friends//
+lola
+//Posts//
+//Show Age//
+true
+//Show Friends//
+false
+//Show Posts//
+true
+
+PROFILE 2:
+//Info//
+jhon;;doe;;14
+//Status//
+good evening
+//Friends//
+maria
+dan
+//Posts//
+what a program!
+//Show Age//
+false
+//Show Friends//
+true
+//Show Posts//
+true
+
+PROFILE 3:
+//Info//
+coco;;chanel;;88
+//Status//
+What are you doing today?
+//Friends//
+//Posts//
+//Show Age//
+true
+//Show Friends//
+true
+//Show Posts//
+true

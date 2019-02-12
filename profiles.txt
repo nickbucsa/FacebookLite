@@ -1,0 +1,28 @@
+
+PROFILE 1:
+//Info//
+swd;;sd;;45
+//Status//
+What are you doing today?
+//Friends//
+//Posts//
+//Show Age//
+true
+//Show Friends//
+true
+//Show Posts//
+true
+
+PROFILE 2:
+//Info//
+sf;;df;;55
+//Status//
+What are you doing today?
+//Friends//
+//Posts//
+//Show Age//
+true
+//Show Friends//
+true
+//Show Posts//
+true
